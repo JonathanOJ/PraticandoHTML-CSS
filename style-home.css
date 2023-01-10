@@ -1,0 +1,53 @@
+/* width é para medir a largura */
+#banner {
+    width: 100%;
+}
+
+/* padding serve para dar espaçamento */
+.principal {
+    background: #ccc;
+    padding: 30px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+/* text-align é para alinhar os textos */
+.titulo-centralizado {
+    text-align: center;
+    height: 50px;
+}
+
+p {
+    text-align: center;
+}
+
+/* font-size é o tamanho das letras */
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: red;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #fff;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagem_beneficios {
+    width: 50%;
+}
