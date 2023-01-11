@@ -1,53 +1,48 @@
-/* width é para medir a largura */
 #banner {
-    width: 100%;
+	width:100%;
 }
 
-/* padding serve para dar espaçamento */
-.principal {
-    background: #ccc;
-    padding: 30px;
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
 }
 
 .titulo-principal {
-    padding-left: 20px;
+	padding-left: 20px;
 }
 
-/* text-align é para alinhar os textos */
 .titulo-centralizado {
-    text-align: center;
-    height: 50px;
+	text-align: center
 }
 
 p {
-    text-align: center;
+	text-align: center;
 }
 
-/* font-size é o tamanho das letras */
 #missao {
-    font-size: 20px;
+	font-size: 20px
 }
 
 em strong {
-    color: red;
+	color: #FF0000;
 }
 
 .itens {
-    font-style: italic;
+	font-style: italic
 }
 
 .beneficios {
-    background: #fff;
-    padding: 20px;
+	background: #FFFFFF;
+	padding: 20px;
 }
 
 ul {
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
 }
 
-.imagem_beneficios {
-    width: 50%;
+.imagembeneficios {
+	width: 50%;
 }
